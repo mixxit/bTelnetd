@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jan 14 14:23:56 GMT 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Documents and Settings\\end\\Desktop\\New Folder\\plugins\\telnetd.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|bukkit-1.0.1-R2-SNAPSHOT.jar>
+includes=

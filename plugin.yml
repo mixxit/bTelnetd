@@ -1,0 +1,8 @@
+name: telnetd
+main: net.gamerservices.telnetd.telnetd
+version: 0.01
+website: http://www.gamerservices.net
+author: Mixxit
+database: true
+description: >
+             Basic telnet functionality.
